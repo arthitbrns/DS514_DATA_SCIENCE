@@ -129,7 +129,7 @@ Training: แบ่งข้อมูลเป็น Training, Validation แล
 
 ภาพที่ 12 Logistic Regression with Parameter Tuning / Hyperparameter Tuning</div>
 
-3.4.4 Workflow– Model Development (Parameter Tuning / Hyperparameter Tuning with Pipeline and GridsearchCV)
+5.4 Workflow– Model Development (Parameter Tuning / Hyperparameter Tuning with Pipeline and GridsearchCV)
 
 <div align="center">
 <img width="1722" height="684" alt="image" src="https://github.com/user-attachments/assets/329bf0e2-4139-4b4b-8fb0-54309c143168" />
@@ -138,7 +138,7 @@ Training: แบ่งข้อมูลเป็น Training, Validation แล
 ภาพที่ 13 Logistic Regression with Parameter Tuning / Hyperparameter Tuning with Pipeline and GridsearchCV</div>
 
 
-5.4 Model Evaluation
+5.5 Model Evaluation
  
 ประสิทธิภาพและการทำงานของแบบจำลอง (Model Performance and Discussion)
 ผลลัพธ์จากโมเดลการพยากรณ์นี้แสดงให้เห็นว่าโมเดลมีความสามารถในการจำแนกผู้ขอสินเชื่อบัตรเครดิตได้อย่างแม่นยำและสมดุล โดยมี Accuracy รวมอยู่ที่ 88% จาก 173 ตัวอย่างในชุดทดสอบ ซึ่งสูงกว่าเกณฑ์ที่ยอมรับได้สำหรับงานจำแนกประเภท
